@@ -1,0 +1,32 @@
+.navs{
+	background-color:brown;
+	margin-bottom:0px;
+}
+.navbar-brand{
+	font-weight: bold;
+	color:white;
+}
+.nav.navbar-nav>li>a{
+	color: white;
+}
+
+.pic{
+	height: 500px;
+}
+.aboutpizza{
+	margin-bottom: 2rem;
+	margin-top: 6rem;
+}
+.img-responsive{
+	margin-top: 6rem;
+}
+
+.thumbnail{
+	height: 450px;
+}
+.footer{
+	background-color: brown;
+	color: white;
+	margin-top: 2rem;
+	padding: 1.5rem;
+}

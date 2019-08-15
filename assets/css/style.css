@@ -1,0 +1,50 @@
+.logo img{
+	height: 55px;
+}
+.len{
+	height:72px;
+	background-color:green;
+	margin-bottom: 0px;
+	border-color: orange;
+}
+.right{
+	padding-top: 2rem;
+}
+h3{
+	text-align: center;
+}
+.thumbnail{
+	height: 400px;
+}
+.foot{
+	background-color:green;
+	margin-top: 120px;
+}
+.container{
+	margin-top: 120px;
+}
+h1{
+	font-size:20px;
+	text-align: center;
+	color: orange; 
+}
+span{
+	padding-left: 160px;
+	color:white;
+}
+.move{
+	text-align: center;
+	color: grey
+}
+.cap{
+	padding-bottom:400px;
+}
+h2{
+	font-size: 70px;
+	color: orange;
+	font-family: bolder;
+}
+i{
+	font-size: 30px;
+	color: green;
+}
